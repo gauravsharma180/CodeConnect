@@ -1,4 +1,4 @@
-# CODERANK
+# CodeConnect
 This is a webapp which is made for improving student and teacher interaction.
 </br>
 
