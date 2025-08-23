@@ -71,7 +71,7 @@ class SignIn extends React.Component {
                 }}
               >
                 {" "}
-                Sign in to CodeRank
+                Sign in to CodeConnect
               </Card.Header>
               <Card.Body>
                 <Form>
