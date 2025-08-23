@@ -60,7 +60,7 @@ class SignUp extends React.Component {
                 }}
               >
                 {" "}
-                Sign up to CodeRank{" "}
+                Sign up to CodeConnect{" "}
               </Card.Header>
               <Card.Body>
                 <Form>
