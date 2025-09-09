@@ -2,7 +2,7 @@
 This is a webapp which is made for improving student and teacher interaction.
 </br>
 
-
+![HomePage](https://github.com/gauravsharma180/CodeConnect/blob/main/Screenshot%202025-09-10%20042836.png)
 
 ## Features
 ### 1. Challenge Module
@@ -10,7 +10,7 @@ This is a webapp which is made for improving student and teacher interaction.
 - There is a **leaderboard** which consists of all submissions made by different users, the ranking is based on time of submission.
 - The student can add editorials and related articles to any problem for future reference in the **resources section** of each problem.
 
-![Uploading Screenshot 2025-09-10 042836.png…]()
+
 
 ### 2. Quiz Module
 - It is for reinforcing and test the knowledge of learner.
